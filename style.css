@@ -15,7 +15,7 @@ body{
     justify-content: center;
     align-items: center;
     position: fixed;
-    background-color: rgba(16, 56, 131, 0.884);
+    background-color: rgb(16, 56, 131);
 }
 .navs ul{
     display: flex;
